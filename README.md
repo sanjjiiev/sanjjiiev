@@ -35,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40" alt="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40" height="40" alt="Haskell"/>
 </p>
 
@@ -71,9 +70,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" height="40" alt="VSCode"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Godot_icon.svg" width="40" height="40" alt="Godot"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Raspberry_Pi_Logo.svg" width="40" height="40" alt="Raspberry Pi"/>
 </p>
 
 **Design**
@@ -85,7 +82,6 @@
 **Networking & Security**
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark"/>
-  <img src="https://raw.githubusercontent.com/OlivierLaflamme/Cybersecurity-Logos/main/Metasploit/metasploit-original.svg" width="40" height="40" alt="Metasploit"/>
   <img src="https://avatars.githubusercontent.com/u/85246860?s=280&v=4" width="40" height="40" alt="BeEF"/>
   <img src="https://raw.githubusercontent.com/Datalux/OSINTgram/main/img/osintgram_logo.png" width="40" height="40" alt="OSINTgram"/>
 </p>
