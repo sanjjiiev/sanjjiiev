@@ -7,13 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjjiiev](https://github.com/sanjjiiev)
 
-- 📫 How to reach me: **sanjjiiev005@gmail.com**
+- 📫 reach me at: **sanjjiiev005@gmail.com**
 
 - 📄 Know about my experiences: [Resume.pdf](https://github.com/sanjjiiev/Portfolio_Website/blob/master/public/Resume.pdf)
 
-- 🏆 Uyir Hackathon Finalist: [Certificate](https://github.com/sanjjiiev/Awards/blob/main/Uyiree_hackathon.pdf)
-
-- 🧹 Swachhata Hi Seva NSS Volunteer: [Certificate](https://github.com/sanjjiiev/Awards/blob/main/swachhata_hi_seva.pdf)
 
 ---
 
@@ -87,7 +84,3 @@
 </p>
 
 ---
-
-<h3 align="left">🎓 Education</h3>
-<p>B.Tech in Computer Science Engineering at <a href="https://www.amrita.edu/">Amrita Vishwa Vidyapeetham</a>, Coimbatore (2023–2027)</p>
-<p>Current CGPA: 7.57</p>
