@@ -76,7 +76,7 @@
 
 **Networking & Security**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="40" height="40" alt="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Wireshark_Logo.png" width="40" height="40" alt="Wireshark"/>
   <img src="https://raw.githubusercontent.com/Datalux/OSINTgram/main/img/osintgram.png" width="40" height="40" alt="OSINTgram"/>
   <img src="https://avatars.githubusercontent.com/u/85246860?s=280&v=4" width="40" height="40" alt="BeEF"/>
 </p>
