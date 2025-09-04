@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Sanjjiiev S</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
 
-- 🔭 I’m currently working on [CampusConnect](https://github.com/Sivadharaneesh/Campus-Connect)
+- currently working on [CampusConnect](https://github.com/Sivadharaneesh/Campus-Connect)
 
-- 🌱 I’m learning **German, Flutter, and advanced AI/ML**
+- learning **German, Flutter, and advanced AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjjiiev](https://github.com/sanjjiiev)
+- reach me at: **sanjjiiev005@gmail.com**
 
-- 📫 reach me at: **sanjjiiev005@gmail.com**
-
-- 📄 Know about my experiences: [Resume.pdf](https://github.com/sanjjiiev/Portfolio_Website/blob/master/public/Resume.pdf)
+- Know about my experiences: [Resume.pdf](https://github.com/sanjjiiev/Portfolio_Website/blob/master/public/Resume.pdf)
 
 
 ---
