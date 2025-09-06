@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sanjjiiev S</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
 
-- currently working on [CampusConnect](https://github.com/Sivadharaneesh/Campus-Connect)
+- currently working on [CampusConnect](https://github.com/Sivadharaneesh/Campus-Connect) , [AYUL](https://github.com/SanjaiPG/Ayul)
 
 - learning **German, Flutter, and advanced AI/ML**
 
