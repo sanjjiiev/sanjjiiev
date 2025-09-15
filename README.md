@@ -3,7 +3,7 @@
 
 - currently working on [CampusConnect](https://github.com/Sivadharaneesh/Campus-Connect) , [AYUL](https://github.com/SanjaiPG/Ayul)
 
-- learning **German, Flutter, and advanced AI/ML**
+- learning **German, Flutter, and Networks**
 
 - reach me at: **sanjjiiev005@gmail.com**
 
