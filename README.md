@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanjjiiev S</h1>
-<h3 align="center">Computer Science Engineer</h3>\
+<h3 align="center">Computer Science Engineer</h3>
 
 - currently working on [CampusConnect](https://github.com/Sivadharaneesh/Campus-Connect) , [AYUL](https://github.com/SanjaiPG/Ayul)
 
