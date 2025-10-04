@@ -5,7 +5,7 @@
 
 - learning **German, Flutter, and Networking**
 
-- Know about me: [Resume.pdf](https://github.com/sanjjiiev/Portfolio_Website/blob/master/public/Resume.pdf)
+- [Know about me](https://sanjjiiev.github.io/Portfolio_Website/)
 
 
 ---
