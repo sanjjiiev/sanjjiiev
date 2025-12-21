@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sanjjiiev S</h1>
-<h3 align="center">Computer Science Engineer</h3>
+# Hi, [I'm Sanjjiiev S](https://sanjjiiev.github.io/Portfolio_Website/)
+## Computer Science Engineer ##
 
 ---
 
