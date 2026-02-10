@@ -6,8 +6,8 @@
 
   *Innovative B.Tech CSE student dedicated to leveraging technology to solve complex real-world problems.*
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-sanjjiiev.github.io-blue?style=for-the-badge&logo=google-chrome)](https://sanjjiiev.github.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjjiiev%20S-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sanjjiiev-s)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-sanjjiiev.github.io-blue?style=for-the-badge&logo=google-chrome)](https://sanjjiiev.github.io/Portfolio_Website/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjjiiev%20S-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/sanjjiiev-s](https://www.linkedin.com/in/sanjjiiev-s-043183290))
   [![Gmail](https://img.shields.io/badge/Email-sanjjiiev005%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sanjjiiev005@gmail.com)
 
 </div>
