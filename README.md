@@ -2,12 +2,12 @@
   
   # Hi there, I'm Sanjjiiev! 
   
-  ###  Full-Stack Developer |  Security Enthusiast |  AI Explorer
+  ###  Software Developer |  Security Enthusiast |  AI Explorer
 
-  *Innovative B.Tech CSE student dedicated to leveraging technology to solve complex real-world problems.*
+  *A digital Swiss Army knife and innovative B.Tech CSE student dedicated to leveraging technology to solve complex real-world problems.*
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-sanjjiiev.github.io-blue?style=for-the-badge&logo=google-chrome)](https://sanjjiiev.github.io/Portfolio_Website/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjjiiev%20S-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/sanjjiiev-s](https://www.linkedin.com/in/sanjjiiev-s-043183290))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjjiiev%20S-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjjiiev-s-043183290)
   [![Gmail](https://img.shields.io/badge/Email-sanjjiiev005%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sanjjiiev005@gmail.com)
 
 </div>
@@ -54,6 +54,9 @@
 ### **Security & Networking**
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/OSINTgram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="https://img.shields.io/badge/BeEF-000000?style=for-the-badge&logo=hackerone&logoColor=white" />
@@ -65,9 +68,11 @@
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 
 ### **Tools & Platforms**
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/MatLab-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
@@ -77,5 +82,5 @@
 ---
 
 <div align="center">
-  <p><i>"Dedication to leveraging technology to solve complex real-world problems."</i></p>
+  <p><i>"A digital Swiss Army knife dedicated to leveraging technology to solve complex real-world problems."</i></p>
 </div>
